@@ -1,7 +1,7 @@
 const products = [
   {
     title: "Uva Crimson",
-    price: 8.99,
+    price: 8.99 ,
     category: "Frutas",
     image: undefined,
     imageDescription: "",
